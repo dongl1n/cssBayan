@@ -20,6 +20,9 @@ body{
     font-size: 5.5rem;
 }
 
+.main__container{
+    margin-bottom: 1rem;
+}
 
 .bayan__item{
     width: 100%;
